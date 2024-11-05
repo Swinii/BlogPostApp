@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #343a40;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+header a {
+    color: #ffc107;
+    text-decoration: none;
+    margin-left: 1em;
+}
+
+main {
+    padding: 1em;
+}
+
+article {
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    margin-bottom: 1em;
+    padding: 1em;
+}
+
+article h2 {
+    margin-top: 0;
+}
+
+form {
+    margin-top: 1em;
+}
+
+form label {
+    display: block;
+    margin-bottom: 0.5em;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+
+form button {
+    padding: 0.5em 1em;
+    background-color: #343a40;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #495057;
+}
